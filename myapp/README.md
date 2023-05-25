@@ -1,3 +1,13 @@
+
+RECIPE SEARCH API : https://recipe-api-3513c.web.app/
+Familiarized myself with:
+React.js Hooks (State/Effect)
+Asynchronous API (async/await)
+JSX, components, props, css modules, etc.
+(React.js, JavaScript, HTML, CSS/Bootstrap, deployed with Google Firebase)
+
+![ezgif com-video-to-gif](https://github.com/anuscarlett/recipe-search-api/assets/98937098/f447dd00-043c-497d-9ea8-e6753b88fc9f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
